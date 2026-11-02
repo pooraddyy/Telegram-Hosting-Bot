@@ -13,8 +13,8 @@ from utils.database import add_user
 start_keyboard = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("👑 Owner", url="https://t.me/Cybrion"),
-            InlineKeyboardButton("📢 Channel", url="https://t.me/The_Hacking_Zone")
+            InlineKeyboardButton("👑 Owner", url="https://t.me/pooraddy"),
+            InlineKeyboardButton("📢 Channel", url="https://t.me/pythontodayz")
         ],
         # CORRECTED: Use callback_data for the button
         [
